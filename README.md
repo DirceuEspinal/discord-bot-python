@@ -1,4 +1,4 @@
-Discord Moderation Bot (Python)
+# Discord Moderation Bot (Python)
 
 A Discord bot developed using Python that automates moderation
 and utility tasks for Discord servers.
